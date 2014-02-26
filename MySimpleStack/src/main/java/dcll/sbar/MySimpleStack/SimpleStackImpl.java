@@ -7,8 +7,8 @@ import java.util.EmptyStackException;
 import java.util.Stack;
 
 /**
- * @author user
- *
+ * laurine
+ * répond à l'exigence 3
  */
 public class SimpleStackImpl implements SimpleStack {
 
